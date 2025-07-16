@@ -1,0 +1,5 @@
+flask
+numpy
+scipy
+mne==1.6.1
+tensorflow==2.12.0
